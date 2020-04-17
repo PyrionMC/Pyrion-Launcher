@@ -1,1 +1,0 @@
-"jinput-dx8.dll", "jinput-dx8_64.dll", "jinput-raw.dll", "jinput-raw_64.dll", "libjinput-linux.so", "libjinput-linux64.so", "libjinput-osx.dylib", "liblwjgl.dylib", "liblwjgl.so", "liblwjgl64.so", "libopenal.so", "libopenal64.so", "lwjgl.dll", "lwjgl64.dll", "openal.dylib", "OpenAL32.dll", "OpenAL64.dll", "SAPIWrapper_x64.dll", "SAPIWrapper_x86.dll", 
